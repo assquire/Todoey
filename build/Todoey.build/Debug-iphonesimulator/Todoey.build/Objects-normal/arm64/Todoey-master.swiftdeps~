@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "366e6efd63dde36e26e323d18634028bb7f3c03b900d53c1b7e9647321dddc12"
+build_start_time: [1677486989, 674778938]
+build_end_time: [1677486989, 690257072]
+inputs:
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/AppDelegate.swift": !private [1676986962, 249612808]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/SceneDelegate.swift": !private [1676987888, 169607162]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/ViewControllers/ItemsViewController.swift": !private [1676989865, 924564361]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/ViewControllers/MainViewController.swift": !private [1677486593, 677104234]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/Views/SectionTableViewCell.swift": !private [1676989463, 747242450]
+  ? "/Users/assquire/Desktop/dev/Extra/Todoey/build/Todoey.build/Debug-iphonesimulator/Todoey.build/DerivedSources/CoreDataGenerated/Todoey/Todoey+CoreDataModel.swift"
+  : !private [1677486989, 648017883]
+  ? "/Users/assquire/Desktop/dev/Extra/Todoey/build/Todoey.build/Debug-iphonesimulator/Todoey.build/DerivedSources/CoreDataGenerated/Todoey/Todoeyitem+CoreDataClass.swift"
+  : !private [1677486989, 649612426]
+  ? "/Users/assquire/Desktop/dev/Extra/Todoey/build/Todoey.build/Debug-iphonesimulator/Todoey.build/DerivedSources/CoreDataGenerated/Todoey/Todoeyitem+CoreDataProperties.swift"
+  : !private [1677486989, 650102615]

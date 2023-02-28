@@ -1,0 +1,20 @@
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintView.swift":
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.o"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftdeps"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintView+Extensions.swift":
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.o"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.dia"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/Debugging.swift":
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Debugging.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintViewDSL.swift":
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.o"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintViewDSL.swiftdeps"

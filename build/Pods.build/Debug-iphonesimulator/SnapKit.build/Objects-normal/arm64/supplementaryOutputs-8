@@ -1,0 +1,20 @@
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/LayoutConstraint.swift":
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.o"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraint.dia"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/Typealiases.swift":
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.d"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftdeps"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.dia"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/UILayoutSupport+Extensions.swift":
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.d"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftdeps"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.dia"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/LayoutConstraintItem.swift":
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftdeps"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.dia"

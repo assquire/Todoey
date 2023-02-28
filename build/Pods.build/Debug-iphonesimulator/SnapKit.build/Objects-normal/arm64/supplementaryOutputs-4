@@ -1,0 +1,25 @@
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintMakerFinalizable.swift":
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.dia"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.d"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.swiftdeps"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerFinalizable.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintLayoutSupportDSL.swift":
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.swiftdeps"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintMakerEditable.swift":
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerEditable.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintMaker.swift":
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.swiftdeps"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.o"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMaker.dia"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintMakerExtendable.swift":
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.d"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.swiftdeps"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.dia"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerExtendable.o"

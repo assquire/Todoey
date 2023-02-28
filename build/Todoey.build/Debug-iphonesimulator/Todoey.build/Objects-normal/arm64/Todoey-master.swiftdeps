@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "366e6efd63dde36e26e323d18634028bb7f3c03b900d53c1b7e9647321dddc12"
+build_start_time: [1677583524, 130836009]
+build_end_time: [1677583524, 875316143]
+inputs:
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/AppDelegate.swift": [1677503573, 605366230]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/Models/DataManager.swift": [1677562287, 713097333]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/Models/Todoeyitem+CoreDataClass.swift": [1677487086, 919711828]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/Models/Todoeyitem+CoreDataProperties.swift": [1677503645, 16417264]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/SceneDelegate.swift": [1676987888, 169607162]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/ViewControllers/ItemsViewController.swift": [1676989865, 924564361]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/ViewControllers/MainViewController.swift": [1677508446, 689476251]
+  "/Users/assquire/Desktop/dev/Extra/Todoey/Todoey/Views/SectionTableViewCell.swift": [1677505125, 115712165]

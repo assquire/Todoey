@@ -1,0 +1,20 @@
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintPriorityTarget.swift":
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.dia"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.o"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriorityTarget.swiftdeps"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintRelatableTarget.swift":
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.o"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelatableTarget.swiftdeps"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintRelation.swift":
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftdeps"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.o"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.d"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintPriority.swift":
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.dia"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.d"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.swiftdeps"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintPriority.o"

@@ -1,0 +1,25 @@
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintLayoutGuide.swift":
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.dia"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintLayoutGuideDSL.swift":
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.o"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.dia"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintLayoutSupport.swift":
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.d"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift":
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.dia"
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.swiftdeps"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide+Extensions.o"
+"/Users/assquire/Desktop/dev/Extra/Todoey/Pods/SnapKit/Sources/ConstraintItem.swift":
+  swift-dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.swiftdeps"
+  dependencies: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.d"
+  diagnostics: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.dia"
+  object: "/Users/assquire/Desktop/dev/Extra/Todoey/build/Pods.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintItem.o"

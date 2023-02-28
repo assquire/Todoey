@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+SnapKit in Pods, no dependencies
+Pods-Todoey in Pods, depends on:
+SnapKit in Pods (explicit)
+Todoey in Todoey, depends on:
+Pods-Todoey in Pods (implicit dependency via file 'Pods_Todoey.framework' in build phase 'Link Binary')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')
